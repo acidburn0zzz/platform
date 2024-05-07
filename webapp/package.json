@@ -26,7 +26,7 @@
     "match-at": "0.1.0",
     "mattermost-redux": "mattermost/mattermost-redux#webapp-master",
     "object-assign": "4.1.1",
-    "pdfjs-dist": "1.8.474",
+    "pdfjs-dist": "4.2.67",
     "perfect-scrollbar": "0.7.1",
     "prop-types": "15.5.10",
     "react": "15.6.1",
